@@ -2,7 +2,7 @@
 
 ## Demo Link
 ```
-https://kyimyatnoesoe7.github.io/JS-to-do-list/index.html
+https://kyimyatnoesoe7.github.io/Jquery-To-do-list/index.html
 
 ```
 
